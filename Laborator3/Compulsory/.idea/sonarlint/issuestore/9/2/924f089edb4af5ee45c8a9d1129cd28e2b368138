@@ -1,0 +1,20 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“È³±ÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¥ ¾^
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õĞíó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡öí†şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€òìÒúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ûïùÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èşëıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şï‹Êıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëşà´ùÿÿÿÿ8œ£ºªö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã¥¹Öÿÿÿÿÿ8¿Œ¼ªö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÏ÷ƒøÿÿÿÿ8çÅ¼ªö/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ñı“¼8çÅ¼ªö/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(÷¥Ÿ™8èÅ¼ªö/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ü¿äø8èÅ¼ªö/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(íûºÇ8èÅ¼ªö/
+e
+java:S1192"JDefine a constant instead of duplicating this literal "IP Adress" 4 times.(“Ë‘ëùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
