@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç–Á¥ùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÆäv
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³¬å
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦¢¿üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àîçõ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿×İ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°úóäùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜéóŞûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Â÷×¶øÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ø»î²
+g
+java:S6204*"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¦š)
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(õ¥Í›ÿÿÿÿÿ
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(¢ ®ğüÿÿÿÿ8—ÍĞÈø/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È¶÷
