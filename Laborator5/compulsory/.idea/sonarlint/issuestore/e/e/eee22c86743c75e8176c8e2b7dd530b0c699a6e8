@@ -1,0 +1,8 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(„”«ßşÿÿÿÿ8ô×æú/
+—
+java:S1130"uRemove the declaration of thrown exception 'lab5.InvalidCatalogException', as it cannot be thrown from method's body.(ğ£üñûÿÿÿÿ8Åµæú/
+|
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "catalog".(‚øù”8œÉöåú/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ä¸œûÿÿÿÿ8ë‹†åú/
