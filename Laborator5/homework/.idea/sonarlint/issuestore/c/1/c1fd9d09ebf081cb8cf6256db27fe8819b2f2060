@@ -1,0 +1,9 @@
+
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ó„Ù¡ùÿÿÿÿ8‰¥ˆçü/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó„Ù¡ùÿÿÿÿ8Š¥ˆçü/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ä¸œûÿÿÿÿ
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ïï°¶þÿÿÿÿ8“Úˆçü/
+r
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ˆÔ§ðþÿÿÿÿ8“Úˆçü/

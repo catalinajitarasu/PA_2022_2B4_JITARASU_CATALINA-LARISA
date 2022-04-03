@@ -1,0 +1,29 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€øñ‡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£°ƒ“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ¹œ“ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ƒ¯¸üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôÙå°ÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(ª•¢Æ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ôÙå°ÿÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(‘ª–÷ÿÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(ôÙå°ÿÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(²¸‹
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(Ó¹
+7
+java:S6205Y"Remove this redundant block.(ÊÒ£Àûÿÿÿÿ
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8éÍÊèü/
+i
+java:S1192"NDefine a constant instead of duplicating this literal "Enter a path:" 3 times.(ôÙå°ÿÿÿÿÿ
+l
+java:S1192!"QDefine a constant instead of duplicating this literal "Not a valid path" 3 times.(¡Ö°“ıÿÿÿÿ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141:"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+P
+java:S1141J"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–Ä¸œûÿÿÿÿ
