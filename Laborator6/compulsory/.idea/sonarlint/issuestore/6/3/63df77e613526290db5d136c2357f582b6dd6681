@@ -1,0 +1,8 @@
+
+V	java:S125."<This block of commented-out lines of code should be removed.(­“ß—ÿÿÿÿÿ
+S
+java:S1128"1Remove this unused import 'java.awt.geom.Path2D'.(ŠŒõ›øÿÿÿÿ8²Æëüş/
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8²Æëüş/
+D
+java:S1068	")Remove this unused "frame" private field.(ÃÁ¦‡ÿÿÿÿÿ
