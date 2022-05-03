@@ -1,0 +1,13 @@
+
+P
+java:S2209"5Change this instance-reference to a static reference.(ËŠ—¾ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œüûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÃÀê8éÿĞ¢ˆ0
+Œ
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(±Ô€
+D
+java:S11728")Remove this unused method parameter "id".(Øßıìıÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ¿¯›
+0
+java:S1220""Move this file to a named package.
