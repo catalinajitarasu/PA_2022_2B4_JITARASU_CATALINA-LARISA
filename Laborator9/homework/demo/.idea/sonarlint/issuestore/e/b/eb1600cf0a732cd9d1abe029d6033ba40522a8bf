@@ -1,0 +1,33 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šİß‡
+Œ
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(±Ô€
+S
+java:S18545"8Remove this useless assignment to local variable "city".(Ğ ¦³ıÿÿÿÿ
+W
+java:S18544"<Remove this useless assignment to local variable "cityRepo".(°ÿÅüÿÿÿÿ
+I
+java:S11723"3Remove these unused method parameters "data", "id".(º¹¨ç
+H
+java:S14814"-Remove this unused "cityRepo" local variable.(°ÿÅüÿÿÿÿ
+D
+java:S14815")Remove this unused "city" local variable.(Ğ ¦³ıÿÿÿÿ
+P	java:S1256"<This block of commented-out lines of code should be removed.(”àä
+W
+java:S1854B"<Remove this useless assignment to local variable "cityRepo".(°ÿÅüÿÿÿÿ
+S
+java:S1854<"=Remove this useless assignment to local variable "countries".(ÿ•ŞÀ
+D
+java:S1172;")Remove this unused method parameter "id".(Øßıìıÿÿÿÿ
+D
+java:S1481<".Remove this unused "countries" local variable.(ÿ•ŞÀ
+V	java:S125="<This block of commented-out lines of code should be removed.(­øÚÇúÿÿÿÿ
+V	java:S125@"<This block of commented-out lines of code should be removed.(¿¬—ƒùÿÿÿÿ
+H
+java:S1481B"-Remove this unused "cityRepo" local variable.(°ÿÅüÿÿÿÿ
+S
+java:S1854J"=Remove this useless assignment to local variable "continent".(ËÆŸ«
+D
+java:S1481J".Remove this unused "continent" local variable.(ËÆŸ«
+Q	java:S125K"<This block of commented-out lines of code should be removed.(œ¼
+Q	java:S125N"<This block of commented-out lines of code should be removed.(¯ß¤Š

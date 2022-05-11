@@ -1,0 +1,6 @@
+
+M
+java:S1144	"1Remove this unused private "Manager" constructor.(ΎΛέ8ΣΪδό‰0
+‚
+java:S1104"`Make entityManagerFactory a static final constant or non-public and provide accessors if needed.(Μƒ±ψϋÿÿÿÿ8ΥΪδό‰0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ο†¦ύÿÿÿÿ8ΦΪδό‰0

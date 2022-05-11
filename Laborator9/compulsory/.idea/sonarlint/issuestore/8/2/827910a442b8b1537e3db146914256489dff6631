@@ -1,0 +1,6 @@
+
+c
+java:S1126T"AReplace this if-then-else statement by a single return statement.( ΞΆΏώÿÿÿÿ8ηΫδό‰0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ο«Αΐ8τΫδό‰0
+^
+java:S1710	"<Remove the 'NamedQueries' wrapper from this annotation group(¨‘―Όϋÿÿÿÿ8υΫδό‰0
