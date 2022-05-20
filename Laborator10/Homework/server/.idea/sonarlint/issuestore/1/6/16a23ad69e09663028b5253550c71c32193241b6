@@ -1,0 +1,27 @@
+
+k
+java:S1450"URemove the "answer" field and declare it as a local variable in the relevant methods.(åÿÑÌ
+s
+java:S1450"]Remove the "checkConnected" field and declare it as a local variable in the relevant methods.(õØš 
+m
+java:S1450	"XRemove the "isRunning" field and declare it as a local variable in the relevant methods.(‡Õ°U
+r
+java:S1450
+"WRemove the "thisUser" field and declare it as a local variable in the relevant methods.(õÇ¯íøÿÿÿÿ
+
+java:S1450"]Remove the "wordsOfRequest" field and declare it as a local variable in the relevant methods.(ö€«Œþÿÿÿÿ8°´™îŒ0
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ô¤„å
+X	java:S125>"<This block of commented-out lines of code should be removed.(Ø‰ìŠ8”ÑŠîŒ0
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(ñÒ ¶
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ñ²Ìò
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+G
+java:S1068
+",Remove this unused "thisUser" private field.(õÇ¯íøÿÿÿÿ
+H
+java:S1068"2Remove this unused "checkConnected" private field.(õØš 
+i
+java:S2259$"LA "NullPointerException" could be thrown; "wordsOfRequest" is nullable here.(ÃØ Ä8ÈÑ˜îŒ0

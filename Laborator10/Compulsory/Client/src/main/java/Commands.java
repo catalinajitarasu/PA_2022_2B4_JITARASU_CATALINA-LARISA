@@ -5,12 +5,6 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-/**
- * <p>Comenzile pe care le poate utiliza clientul</p>
- * <p>Stabilesc acelasi port ca serverul si iau adresa IPV4 pentru a putea face conexiunea</p>
- * <p> Prin out.printl(request) trimit catre server comanda pe care vrea clientul sa o efectueze</p>
- * <p> In response preiau ce imi trimite serverul raspuns si dupa il afisez</p>
- */
 public class Commands {
     public static void main(String[] args) throws IOException {
         String serverAdress = "127.0.0.1";

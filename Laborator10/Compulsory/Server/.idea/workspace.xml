@@ -4,11 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e8ea2c0-154f-4c30-9cc1-11909498e1ad" name="Changes" comment="" />
+    <list default="true" id="7e8ea2c0-154f-4c30-9cc1-11909498e1ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/main/java/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/main/java/Commands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/target/classes/Commands.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/target/classes/Commands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NetworkServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NetworkServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/4/8/48140af181ae65e264f08d667e93502d5c8d2db5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/6/3/63df77e613526290db5d136c2357f582b6dd6681" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/6/3/63df77e613526290db5d136c2357f582b6dd6681" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/9/e/9e027d9fa4b1ddd7cf3ece16c2a8d57e95a63061" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/9/e/9e027d9fa4b1ddd7cf3ece16c2a8d57e95a63061" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/d/5/d5d515782f4083992e6d44e78fac12eb96996e5e" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/d/5/d5d515782f4083992e6d44e78fac12eb96996e5e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/e/8/e8e4aabc605c17092be96c224e83239d59be77f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Laborator6/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -21,22 +45,23 @@
     </option>
   </component>
   <component name="ProjectId" id="28wuYKOWBoPLLJb4y34keSM35oQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Laborator10/Compulsory/Server",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Catalina/OneDrive/Documente/GitHub/PA_2022_2B4_JITARASU_CATALINA-LARISA/Laborator10/Compulsory/Server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -61,10 +86,23 @@
       <updated>1652140016977</updated>
       <workItem from="1652140018636" duration="72000" />
       <workItem from="1652140103130" duration="879000" />
+      <workItem from="1652558048144" duration="42000" />
+      <workItem from="1652558103137" duration="741000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

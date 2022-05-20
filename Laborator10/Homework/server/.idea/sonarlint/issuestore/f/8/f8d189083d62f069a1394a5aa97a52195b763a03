@@ -1,0 +1,13 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ΣΤ²χ8Λΐχν0
+N
+java:S5261""1Add explicit curly braces to avoid dangling else.(αΆ–¬8Χΐχν0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(τ¤„ε8Ψΐχν0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(τ¤„ε8Ωΐχν0
+N
+java:S5261:"1Add explicit curly braces to avoid dangling else.(αΆ–¬8Ωΐχν0
+L
+java:S1068"*Remove this unused "socket" private field.(Ε’¬Ϊώÿÿÿÿ8Ϊΐχν0
+>
+java:S16432"Use a StringBuilder instead.(“‘“Ίόÿÿÿÿ8ςΎυν0

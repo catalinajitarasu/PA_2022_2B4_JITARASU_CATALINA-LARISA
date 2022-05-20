@@ -1,6 +1,4 @@
-/**
- * <p>Clasa pentru client pentru a sti numele cat si daca este logat sau nu</p>
- */
+
 public class Client {
     private String name;
     private int logat;

@@ -1,0 +1,13 @@
+
+y
+java:S1450"WRemove the "thisUser" field and declare it as a local variable in the relevant methods.(õÇ¯íøÿÿÿÿ8ë’ëíŒ0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÓÔ²÷8ì’ëíŒ0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ô¤„å8ï’ëíŒ0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ô¤„å8ï’ëíŒ0
+L
+java:S1068"*Remove this unused "socket" private field.(Å’¬Úşÿÿÿÿ8ğ’ëíŒ0
+M
+java:S1068	"+Remove this unused "request" private field.(ôÜÂÌûÿÿÿÿ8ñ’ëíŒ0
+9
+java:S16439"Use a StringBuilder instead.(®Á„8­éíŒ0

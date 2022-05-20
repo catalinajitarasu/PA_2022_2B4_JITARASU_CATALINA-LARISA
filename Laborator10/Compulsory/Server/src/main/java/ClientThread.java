@@ -11,21 +11,12 @@ public class ClientThread extends Thread {
     private Socket socket = null;
     private List<Client> clientiAplicatie = new ArrayList<>();
     private List<ClientThread> clients = new ArrayList<>();
-
     public ClientThread(Socket socket) {
         this.socket = socket;
     }
-
-
     public void run() {
         try {
             PrintWriter out = new PrintWriter(socket.getOutputStream());
-            //voi adauga in lista de clienti cateva persoane pentru a proba daca loginul functioneaza
-            newClient = new Client("Andrei");
-            clientiAplicatie.add(newClient);
-            newClient = new Client("Catalina");
-            clientiAplicatie.add(newClient);
-          
             int isLoggedIn = 0;
 
             while (!socket.isClosed()) {
@@ -53,13 +44,13 @@ public class ClientThread extends Thread {
                     out.println(response);
                     out.flush();
                     System.exit(1);
-                    serverIsStopped = 1; 
+                    serverIsStopped = 1;
                     this.socket.close();
 
                 } else if (request.equals("exit")) {
 
                     if (isLoggedIn != 0)
-                        clientiAplicatie.get(isLoggedIn).setLogat(0); 
+                        clientiAplicatie.get(isLoggedIn).setLogat(0);
                     response = "Server exited";
                     out.println(response);
                     out.flush();
@@ -67,17 +58,17 @@ public class ClientThread extends Thread {
                     this.socket.close();
 
                 } else if (request.equals("login") && isLoggedIn == 0) {
-                    for (int i = 0; i < clientiAplicatie.size(); i++) {                       
+                    for (int i = 0; i < clientiAplicatie.size(); i++) {
                         if (clientiAplicatie.get(i).getName().equals(person)) {
                             isLoggedIn = i;
                         }
                     }
-                    if (isLoggedIn == 0) {                     
+                    if (isLoggedIn == 0) {
                         response = "The account you're trying to get into doesn't exists! Try register or verify the username";
                         out.println(response);
                         out.flush();
                     } else {
-                    
+
                         clientiAplicatie.get(isLoggedIn).setLogat(1);
                         response = "Congrats! You succesfully logged in!";
                         out.println(response);

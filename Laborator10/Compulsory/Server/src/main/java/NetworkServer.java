@@ -4,9 +4,6 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * <p>Clasa pentru creerea conexiunii cu clientul</p>
- */
 public class NetworkServer {
     public static final int PORT=8100;
     private static List<ClientThread> clients=new ArrayList<>();

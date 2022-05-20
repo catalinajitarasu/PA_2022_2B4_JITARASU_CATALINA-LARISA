@@ -1,0 +1,13 @@
+
+k
+java:S1450"URemove the "answer" field and declare it as a local variable in the relevant methods.(åÿÑÌ
+Q	java:S125"<This block of commented-out lines of code should be removed.(š‹ùœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æëÜÊûÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(Ý³†ã8•€îŒ0
+E
+java:S1068"*Remove this unused "socket" private field.(Å’¬Úþÿÿÿÿ
+G
+java:S1068
+",Remove this unused "thisUser" private field.(õÇ¯íøÿÿÿÿ
+H
+java:S1068"2Remove this unused "checkConnected" private field.(õØš 

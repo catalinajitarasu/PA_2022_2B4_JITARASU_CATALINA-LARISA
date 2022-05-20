@@ -1,0 +1,11 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÓÔ²÷
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„‡Æ×şÿÿÿÿ8ÂíŒ0
+=
+java:S1125"'Remove the unnecessary boolean literal.(ø€·”
+E
+java:S1068"*Remove this unused "socket" private field.(Å’¬Úşÿÿÿÿ
+G
+java:S1068
+",Remove this unused "thisUser" private field.(õÇ¯íøÿÿÿÿ

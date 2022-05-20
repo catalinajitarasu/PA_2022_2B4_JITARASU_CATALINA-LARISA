@@ -1,0 +1,13 @@
+
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÖòÔÉùÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Æ¶·ä
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ôş’øÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(±Ù˜
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+j
+java:S1104"TMake capacity a static final constant or non-public and provide accessors if needed.(Ë»¢…
+k
+java:S1104"PMake type a static final constant or non-public and provide accessors if needed.(ü‡‹•ùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
